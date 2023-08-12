@@ -1,14 +1,14 @@
 # ProjectMachineLearning23
 # Project Machine Learning 
-Dataset: 
+# Dataset: 
 - Paramount+ Tv shows and Movies from Kaggle
-Statistics and ability:
+# Statistics and ability:
 - Data visualization, Histogram of feature
-Pre-Processing:
+# Pre-Processing:
 - Feature selection , missing value , LabelEncoder , StandardScaler, Remove features..
-Training and Test:
+# Training and Test:
 - split traning data and test data (70% - 30%)
-Machine learning models:
+# Machine learning models:
 - Neraul Network
 - Knn
 - Naive bayes
